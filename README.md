@@ -1,0 +1,11 @@
+# MdReadMeFile-Terraform-Ec2Instance-LoadBalancer
+![Project 2-1](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/fca24893-132e-461c-8a7e-14c1b99ca383)
+![Project 2-2](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/dad213a2-808a-45aa-b962-cb68f43992d3)
+![Project 2-3](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/5aba5509-c3e5-4978-acfa-6988b79efcc6)
+![Project 2-4](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/7f521acc-0164-4bf0-96d3-7ff7b3243f8c)
+![3 Ec2 instances](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/5aa9669f-0c6c-4045-9623-517bf5e16881)
+![3 Ec2 instances 2](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/f4e5b8c1-eefc-47c5-9265-ee55de30108b)
+![3 Ec2 instances 3](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/bdb7b690-95ac-4f74-a5ee-a3bd4c9a997e)
+![3 Ec2 instances 4  Load balancer](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/51758a2c-02eb-4b94-8be4-317ff5bd0c88)
+![2nd project 1](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/10e098ad-0e3d-4dab-a0e1-5043ebc53350)
+![2nd project 2](https://github.com/AgboPatienceNdidiAmaka/MdReadMeFile-Terraform-Ec2Instance-LoadBalancer/assets/137604441/899c86d0-30fb-4d94-a9a1-1fe5f18d641a)
